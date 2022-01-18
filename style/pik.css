@@ -1,7 +1,9 @@
 body { background-color: #303030; }
 .pavouki { color: red; }
 .rektangl { 
+	height: 30px;
+	width: 80px;
 	margin: 20px;
-	border: 10px double aqua;
+	border-style: 10px double aqua;
 	padding: 100px;
 }
